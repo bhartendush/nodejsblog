@@ -1,0 +1,1 @@
+This is a nodejs blog developed with nodejs, expressjs, passport, jade, mongoose and mongodb. User can login to the applications and add posts and categories and can view post in single page. I will be adding comments sections oon in this applications for single posts
